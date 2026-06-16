@@ -85,5 +85,11 @@ This application demonstrates the ability to build professional business solutio
 
 ### Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](https://github.com/DataWorksWithSwarna/Business_webapp/blob/main/Aurum1.png)
+
+### Description
+![Desc](https://github.com/DataWorksWithSwarna/Business_webapp/blob/main/Aurum2.png)
+
+### Subscription Plans
+![Bottom](https://github.com/DataWorksWithSwarna/Business_webapp/blob/main/Aurum3.png)
 
